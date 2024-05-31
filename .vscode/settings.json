@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/tk/ros2_ws/install/teleop/lib/python3.10/site-packages",
+        "/home/tk/ros2_ws/install/milkypublisher_msgs/local/lib/python3.10/dist-packages",
+        "/home/tk/ros2_ws/install/milkypublisher/lib/python3.10/site-packages",
+        "/home/tk/ros2_ws/install/dogaTakuchan/lib/python3.10/site-packages",
+        "/home/tk/humble_ws/install/happymimi_msgs/local/lib/python3.10/dist-packages",
+        "/home/tk/humble_ws/install/happy_description_takumi/lib/python3.10/site-packages",
+        "/home/tk/uros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tk/ros2_ws/install/teleop/lib/python3.10/site-packages",
+        "/home/tk/ros2_ws/install/milkypublisher_msgs/local/lib/python3.10/dist-packages",
+        "/home/tk/ros2_ws/install/milkypublisher/lib/python3.10/site-packages",
+        "/home/tk/ros2_ws/install/dogaTakuchan/lib/python3.10/site-packages",
+        "/home/tk/humble_ws/install/happymimi_msgs/local/lib/python3.10/dist-packages",
+        "/home/tk/humble_ws/install/happy_description_takumi/lib/python3.10/site-packages",
+        "/home/tk/uros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
